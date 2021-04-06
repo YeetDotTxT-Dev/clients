@@ -15,4 +15,8 @@ https://github.com/olliem5/past/releases
 https://cdn.discordapp.com/attachments/819345671411728405/819638039659282452/wurstplus-two-fix.jar
 https://cdn.discordapp.com/attachments/819345671411728405/820586267666022430/GameSense.v2.2.8.jar
 https://github.com/Gopro336/CLEAN_1.9.0_PHOBOS
+https://cdn.discordapp.com/attachments/819345671411728405/827492106351280128/postman2.0.jar
+https://cdn.discordapp.com/attachments/819345671411728405/828957822607425586/postman2.010.jar
+https://cdn.discordapp.com/attachments/819345671411728405/828583236052975656/rusherhack_v.1.0.9.jar
+https://github.com/Crystallinqq/PyroClientReup/releases
 https://discord.gg/nc4w54MjeV where i got
